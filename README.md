@@ -1,6 +1,7 @@
 # syslog-display-RaspberryPi
 To get more information about the whole idea of this repository please watch the My Event Monitoring playlist on YouTube:
-https://www.youtube.com/watch?v=eHi_wSU7WOk&list=PLoLr3bdA0dF-9Zxayzm1Y60ZRaTjY19dY&index
+
+https://www.youtube.com/watch?v=eHi_wSU7WOk&list=PLoLr3bdA0dF-9Zxayzm1Y60ZRaTjY19dY
 
 The logreader.py file should be downloaded and ran on the Syslog server.
 
